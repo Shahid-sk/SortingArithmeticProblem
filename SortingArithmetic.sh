@@ -13,8 +13,8 @@ exp3=$(($c+$a/$b))
 echo $exp3
 exp4=$(($a%$b+$c))
 echo $exp4
-
 Sorting[exp1]="$exp1"
 Sorting[exp2]="$exp2"
 Sorting[exp3]="$exp3"
 Sorting[exp4]="$exp4"
+
