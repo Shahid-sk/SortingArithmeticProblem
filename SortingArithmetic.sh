@@ -10,3 +10,5 @@ exp2=$(($a*$b+$c))
 echo $exp2
 exp3=$(($c+$a/$b))
 echo $exp3
+exp4=$(($a%$b+$c))
+echo $exp4
