@@ -8,3 +8,5 @@ exp1=$(($a+$b*$c))
 echo $exp1
 exp2=$(($a*$b+$c))
 echo $exp2
+exp3=$(($c+$a/$b))
+echo $exp3
